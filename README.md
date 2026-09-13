@@ -3,7 +3,8 @@
 
 # 🎉 Congratulations User1726-K! 🎉
 
-<img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3Ridmd5N244dnoxdnQ4N2U0anhyc2FmNW40ZDExdTdvZDR1aDkwNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DrY4EKa1V1sccSOEXM/giphy.gif" />
+
 
 ### 🌟 You've successfully completed the exercise! 🌟
 
